@@ -1,2 +1,2 @@
-# website1
-Pequeña descripcion del Instituto Gubernamental Choloma 
+# Instituto Gubernamental Choloma 
+Genesis Peralta, Descripcion del Instituto Gubernamental Choloma 
